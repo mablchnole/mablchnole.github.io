@@ -1,0 +1,61 @@
+body {
+	background: #0f0f0f;
+}
+
+/* ------------- ABOUT SECTION ------------- */
+
+#about {
+	background: #2ea9c8;
+	padding: 60px 0;
+	overflow: hidden;
+	color: #fff;
+}
+
+#about .profile-pic {
+	position: relative;
+	width: 120px;
+	height: 120px;
+	border-radius: 100%;
+}
+
+#about a {
+	color:#fff;
+}
+
+/* ------------- RESUME SECTION ------------- */
+
+#resume {
+   background: #fff;
+   padding: 20px 0;
+   overflow: hidden;
+}
+
+#resume a {
+	color: #2ea9c8;
+}
+
+#resume h1 {
+	font-size: 16px;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+}
+
+#resume h1 span {
+   border-bottom: 3px solid #2ea9c8;
+   padding-bottom: 6px;
+}
+
+#resume .info {
+	font-style: italic;
+
+}
+
+.education, .work {
+  	padding-bottom: 30px;
+   	border-bottom: 1px solid #E8E8E8;
+}
+
+
+
+
+
