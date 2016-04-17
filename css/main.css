@@ -42,10 +42,6 @@ h1 {
 	font-weight: bold;
 }
 
-i {
-	font-style: italic;
-}
-
 .clear {
 	clear: both;
 }
@@ -106,6 +102,7 @@ main {
 
 .title {
 	margin-top: 0;
+	font-style: italic;
 }
 
 section h1 {
