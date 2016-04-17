@@ -63,13 +63,8 @@ header {
 	width: 75%;
 }
 
-.intro ul {
-	list-style: none;
-	padding-left: 0;
-}
-
-.intro ul li:last-child {
-	padding-top: 4%;
+.intro p {
+	margin-bottom: 5%;
 }
 
 .intro a {
